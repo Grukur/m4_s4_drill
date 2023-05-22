@@ -1,0 +1,28 @@
+
+
+#flexCheckDefault {
+    padding: 10px;
+}
+
+.inputOwn {   
+    outline: none;
+    border: none;
+    appearance: none;
+    background-color: #f7f7f7;
+    height: 30px;
+}
+
+.form-check {
+    border: 2px solid #d2d2d2;
+    background-color: #f7f7f7;
+    height: 35px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+h6 {
+    background-color: #d2d2d2;
+    text-align: center;
+    height: 4vh;
+    padding-top:10px;
+}
